@@ -6,7 +6,6 @@ import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
 public class showqui extends javax.swing.JFrame {
-
    
     public showqui() {
         initComponents();
@@ -17,9 +16,6 @@ public class showqui extends javax.swing.JFrame {
         JOptionPane.showMessageDialog(this, "", "ShowQui - UNTREF - Rocio Echegaray Sierra", JOptionPane.INFORMATION_MESSAGE, new ImageIcon("C:/Users/Rocio/Documents/NetBeansProjects/ShowQui/src/showqui/ShowQui.png"));
     }
 
-
-    @SuppressWarnings("unchecked")
-    // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
         jLabel1 = new javax.swing.JLabel();
@@ -48,7 +44,7 @@ public class showqui extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/banana.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/banana.png")));
         jLabel1.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel1.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -56,7 +52,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/aire.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/aire.jpg"))); 
         jLabel2.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel2.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -64,7 +60,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/cubiertos.jpg"))); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/cubiertos.jpg"))); 
         jLabel3.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel3.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -72,7 +68,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/globo.jpg"))); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/globo.jpg")));
         jLabel4.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel4.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -80,7 +76,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/pila.jpg"))); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/pila.jpg"))); 
         jLabel5.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel5.addMouseMotionListener(new java.awt.event.MouseMotionAdapter() {
             public void mouseDragged(java.awt.event.MouseEvent evt) {
@@ -93,7 +89,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/anillo.jpg"))); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/anillo.jpg")));
         jLabel6.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel6.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -101,7 +97,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/pileta.jpg"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/pileta.jpg")));
         jLabel7.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel7.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -109,7 +105,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/radiografia.png"))); // NOI18N
+        jLabel8.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/radiografia.png")));
         jLabel8.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel8.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -117,7 +113,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/reloj.jpg"))); // NOI18N
+        jLabel9.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/reloj.jpg")));
         jLabel9.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel9.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -125,7 +121,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/sal.png"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/sal.png")));
         jLabel10.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel10.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -133,7 +129,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/termometro.jpg"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/termometro.jpg")));
         jLabel11.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel11.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -141,7 +137,7 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/lamparita.png"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/showqui/lamparita.png")));
         jLabel12.setBorder(javax.swing.BorderFactory.createEtchedBorder(java.awt.Color.lightGray, null));
         jLabel12.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -149,10 +145,10 @@ public class showqui extends javax.swing.JFrame {
             }
         });
 
-        jLabel13.setFont(new java.awt.Font("Tahoma", 0, 34)); // NOI18N
+        jLabel13.setFont(new java.awt.Font("Tahoma", 0, 34));
         jLabel13.setForeground(new java.awt.Color(255, 0, 0));
 
-        jLabel14.setFont(new java.awt.Font("Tahoma", 0, 34)); // NOI18N
+        jLabel14.setFont(new java.awt.Font("Tahoma", 0, 34));
         jLabel14.setForeground(new java.awt.Color(255, 0, 0));
 
         jTextArea1.setEditable(false);
@@ -167,14 +163,10 @@ public class showqui extends javax.swing.JFrame {
         jScrollPane2.setViewportView(jTextArea2);
 
         jLabel15.setText("Nombre:");
-
         jLabel16.setText("Composición:");
-
         jLabel17.setText("Información sobre el objeto:");
-
         jLabel18.setText("Información sobre la composición:");
-
-        jLabel19.setFont(new java.awt.Font("Tahoma", 0, 24)); // NOI18N
+        jLabel19.setFont(new java.awt.Font("Tahoma", 0, 24));
         jLabel19.setText("¡CONOCÉ LA COMPOSICIÓN DE LOS OBJETOS HACIENDO CLICK SOBRE ELLOS!");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
@@ -297,9 +289,9 @@ public class showqui extends javax.swing.JFrame {
         );
 
         pack();
-    }// </editor-fold>//GEN-END:initComponents
+    }
 
-    private void jLabel6MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel6MouseClicked
+    private void jLabel6MouseClicked(java.awt.event.MouseEvent evt) {/
       jLabel13.setText("ORO");
       jLabel14.setText("ANILLO");
       jTextArea1.setLineWrap(true);
@@ -308,9 +300,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El oro es un elemento químico cuyo número atómico es 79. Está ubicado en el grupo 11 de la tabla periódica. Es un metal precioso blando de color amarillo. Su símbolo es Au. Además, es uno de los metales más utilizados en las joyerías por su composición elemental y su rareza y por ser un metal difícil de encontrar en la naturaleza y en la tierra, abunda más en el interior de las montañas.");
-    }//GEN-LAST:event_jLabel6MouseClicked
+    }
 
-    private void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel2MouseClicked
+    private void jLabel2MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("OXÍGENO");
       jLabel14.setText("AIRE");
       jTextArea1.setLineWrap(true);
@@ -320,9 +312,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El oxígeno es un elemento químico de número atómico 8 y representado por el símbolo O. En condiciones normales de presión y temperatura, dos átomos del elemento se enlazan para formar el dioxígeno, un gas diatómico incoloro, inodoro e insípido con fórmula O2. Esta sustancia constituye una importante parte de la atmósfera y resulta necesaria para sostener la vida terrestre.");
     
-    }//GEN-LAST:event_jLabel2MouseClicked
+    }
 
-    private void jLabel1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel1MouseClicked
+    private void jLabel1MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("POTASIO");
       jLabel14.setText("BANANA");
        jTextArea1.setLineWrap(true);
@@ -332,9 +324,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El potasio es un elemento químico de la tabla periódica cuyo símbolo químico es K, cuyo número atómico es 19. Es un metal alcalino de color blanco-plateado, que abunda en la naturaleza en los elementos relacionados con el agua salada y otros minerales. Se oxida rápidamente en el aire, es muy reactivo, especialmente en agua, y se parece químicamente al sodio.");
 
-    }//GEN-LAST:event_jLabel1MouseClicked
+    }
 
-    private void jLabel3MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel3MouseClicked
+    private void jLabel3MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("CROMO");
       jLabel14.setText("CUBIERTOS");
       jTextArea1.setLineWrap(true);
@@ -343,9 +335,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El cromo es un elemento químico de número atómico 24 que se encuentra en el grupo 6 de la tabla periódica de los elementos. Su símbolo es Cr. Es un metal que se emplea especialmente en metalurgia. Su nombre cromo se debe a los distintos colores que presentan sus compuestos.");
-    }//GEN-LAST:event_jLabel3MouseClicked
+    }
 
-    private void jLabel4MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel4MouseClicked
+    private void jLabel4MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("HELIO");
       jLabel14.setText("GLOBO");
       jTextArea1.setLineWrap(true);
@@ -353,14 +345,10 @@ public class showqui extends javax.swing.JFrame {
       jTextArea1.setText("Un globo es un recipiente de material flexible relleno generalmente de aire o helio. El globo compuesto de 50% de látex es biodegradable. Un globo de 75% de látex tarda en biodegradarse unos 10 años.");
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
-      jTextArea2.setText("El helio​ es un elemento químico de número atómico 2, símbolo He y peso atómico estándar de 4,0026. Pertenece al grupo 18 de la tabla periódica de los elementos, ya que al tener el nivel de energía completo presenta las propiedades de un gas noble. Es decir, es inerte (no reacciona) y al igual que estos, es un gas monoatómico incoloro e inodoro que cuenta con el menor punto de ebullición de todos los elementos químicos y solo puede ser licuado bajo presiones muy grandes y no puede ser congelado.");
-    }//GEN-LAST:event_jLabel4MouseClicked
+      jTextArea2.setText("El helio es un elemento químico de número atómico 2, símbolo He y peso atómico estándar de 4,0026. Pertenece al grupo 18 de la tabla periódica de los elementos, ya que al tener el nivel de energía completo presenta las propiedades de un gas noble. Es decir, es inerte (no reacciona) y al igual que estos, es un gas monoatómico incoloro e inodoro que cuenta con el menor punto de ebullición de todos los elementos químicos y solo puede ser licuado bajo presiones muy grandes y no puede ser congelado.");
+    }
 
-    private void jLabel5MouseDragged(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel5MouseDragged
-     
-    }//GEN-LAST:event_jLabel5MouseDragged
-
-    private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel8MouseClicked
+    private void jLabel8MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("BARIO");
       jLabel14.setText("RADIOGRAFÍA");
       jTextArea1.setLineWrap(true);
@@ -369,9 +357,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El bario es un elemento químico de la tabla periódica cuyo símbolo es Ba y su número atómico es 56. Metal alcalinotérreo. Su masa atómica es 137,34. Su punto de fusión está a 725 °C, su punto de ebullición a 1.640 °C, y su densidad relativa es 3,5.");
-    }//GEN-LAST:event_jLabel8MouseClicked
+    }
 
-    private void jLabel7MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel7MouseClicked
+    private void jLabel7MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("CLORO");
       jLabel14.setText("PILETA");
       jTextArea1.setLineWrap(true);
@@ -380,9 +368,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El cloro es un elemento químico de número atómico 17 situado en el grupo de los halógenos de la tabla periódica de los elementos. Su símbolo es Cl. En condiciones normales y en estado puro forma dicloro: un gas tóxico amarillo-verdoso formado por moléculas diatómicas (Cl2) unas 2,5 veces más pesado que el aire, de olor desagradable y tóxico. Es un elemento abundante en la naturaleza y se trata de un elemento químico esencial para muchas formas de vida.");
-    }//GEN-LAST:event_jLabel7MouseClicked
+    }
 
-    private void jLabel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel9MouseClicked
+    private void jLabel9MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("PLATA");
       jLabel14.setText("RELOJ");
       jTextArea1.setLineWrap(true);
@@ -391,9 +379,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("La plata es un elemento químico de número atómico 47 situado en el grupo 11 de la tabla periódica de los elementos. Su símbolo es Ag. Es un metal de transición blanco, brillante, blando, dúctil, maleable. Se encuentra en la naturaleza formando parte de distintos minerales (generalmente en forma de sulfuro) o como plata libre. Es muy común en la naturaleza, de la que representa una parte en 5 mil de corteza terrestre.");
-    }//GEN-LAST:event_jLabel9MouseClicked
+    }
 
-    private void jLabel10MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel10MouseClicked
+    private void jLabel10MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("SODIO");
       jLabel14.setText("SAL");
       jTextArea1.setLineWrap(true);
@@ -402,9 +390,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El sodio es un elemento químico de símbolo Na (del latín, natrium) con número atómico 11 que fue aislado por sir Humphry Davy en 1807. Es un metal alcalino blando, untuoso, de color plateado, muy abundante en la naturaleza, encontrándose en la sal marina y el mineral halita. Es muy reactivo, arde con llama amarilla, se oxida en presencia de oxígeno y reacciona violentamente con el agua.");
-    }//GEN-LAST:event_jLabel10MouseClicked
+    }
 
-    private void jLabel11MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel11MouseClicked
+    private void jLabel11MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("MERCURIO");
       jLabel14.setText("TERMÓMETRO");
       jTextArea1.setLineWrap(true);
@@ -413,9 +401,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El mercurio es un elemento químico con el símbolo Hg y número atómico 80. En la literatura antigua era designado comúnmente como plata líquida y también como azogue o hidrargiro.​ Elemento de aspecto plateado, metal pesado perteneciente al bloque D de la tabla periódica, el mercurio es el único elemento metálico líquido en condiciones estándar de laboratorio; el único otro elemento que es líquido bajo estas condiciones es el bromo (un no metal), aunque otros metales como el cesio, el galio, y el rubidio se funden a temperaturas ligeramente superiores.");
-    }//GEN-LAST:event_jLabel11MouseClicked
+    }
 
-    private void jLabel12MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel12MouseClicked
+    private void jLabel12MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("ARGÓN");
       jLabel14.setText("LÁMPARA");
       jTextArea1.setLineWrap(true);
@@ -424,9 +412,9 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El argón es un elemento químico de número atómico 18 y símbolo Ar. Es el tercero de los gases nobles, incoloro e inerte como ellos, constituye el 0,934 % del aire seco. Su nombre proviene del griego, que significa inactivo (debido a que no reacciona).");
-    }//GEN-LAST:event_jLabel12MouseClicked
+    }
 
-    private void jLabel5MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel5MouseClicked
+    private void jLabel5MouseClicked(java.awt.event.MouseEvent evt) {
       jLabel13.setText("LITIO");
       jLabel14.setText("PILA");
       jTextArea1.setLineWrap(true);
@@ -435,12 +423,8 @@ public class showqui extends javax.swing.JFrame {
       jTextArea2.setLineWrap(true);
       jTextArea2.setWrapStyleWord(true);
       jTextArea2.setText("El Litio es un elemento químico de símbolo Li y número atómico 3. En la tabla periódica, se encuentra en el grupo 1, entre los elementos alcalinos. En su forma pura, es un metal blando, de color blanco plata, que se oxida rápidamente en aire o agua. Su densidad es la mitad de la del agua, siendo el metal y elemento sólido más ligero. Se emplea especialmente en aleaciones conductoras del calor, en baterías eléctricas y, sus sales, en el tratamiento del trastorno bipolar.");
-    
-    }//GEN-LAST:event_jLabel5MouseClicked
+    }
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
@@ -449,7 +433,6 @@ public class showqui extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel11;
@@ -473,5 +456,4 @@ public class showqui extends javax.swing.JFrame {
     private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JTextArea jTextArea1;
     private javax.swing.JTextArea jTextArea2;
-    // End of variables declaration//GEN-END:variables
 }
